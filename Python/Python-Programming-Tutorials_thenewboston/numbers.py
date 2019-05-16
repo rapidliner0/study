@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# Python Programming Tutorial - 2 - Numbers
+# by thenewboston
+# https://youtu.be/hnxIRVZ0EyU
+
 3 + 4
 # 7
 
