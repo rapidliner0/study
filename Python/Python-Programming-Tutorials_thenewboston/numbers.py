@@ -34,3 +34,7 @@
 tuna = 5
 20 + tuna
 # 25
+
+bacon = 18
+bacon / tuna
+# 3.6
