@@ -33,3 +33,6 @@ print("dsadasd")
 
 len('dfjhf22893hfsdfjkasdf')
 # 21
+
+len(user)
+# 11
