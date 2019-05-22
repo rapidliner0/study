@@ -22,3 +22,6 @@ print("hey how brown cow")
 
 print(r"C:\Bucky\Desktop\nudePics")
 # C:\Bucky\desktop\nudepics
+
+firstname = "Bucky "
+# Nothing printed on sys.stdout
