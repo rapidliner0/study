@@ -28,3 +28,6 @@ firstname = "Bucky "
 
 firstname + "Roberts"
 # 'Bucky Roberts'
+
+firstname + "McLovin"
+# 'Bucky McLovin'
