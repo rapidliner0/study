@@ -31,3 +31,6 @@ firstname + "Roberts"
 
 firstname + "McLovin"
 # 'Bucky McLovin'
+
+firstname * 5
+# 'Bucky Bucky Bucky Bucky Bucky '
