@@ -25,3 +25,6 @@ print(r"C:\Bucky\Desktop\nudePics")
 
 firstname = "Bucky "
 # Nothing printed on sys.stdout
+
+firstname + "Roberts"
+# 'Bucky Roberts'
