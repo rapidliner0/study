@@ -27,3 +27,6 @@ user[2:]
 
 user[:]
 # 'Tuna McFish'
+
+print("dsadasd")
+# dsadasd
