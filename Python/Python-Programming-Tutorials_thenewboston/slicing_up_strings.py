@@ -6,3 +6,6 @@ user = "Tuna McFish"
 
 user[0]
 # 'T'
+
+user[5]
+# 'M'
