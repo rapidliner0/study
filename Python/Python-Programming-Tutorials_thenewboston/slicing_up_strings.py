@@ -21,3 +21,6 @@ user[2:7]
 
 user[:7]
 # 'Tuna Mc'
+
+user[2:]
+# 'na McFish'
