@@ -15,3 +15,6 @@ user[-1]
 
 user[-3]
 # 'i'
+
+user[2:7]
+# 'na Mc'
