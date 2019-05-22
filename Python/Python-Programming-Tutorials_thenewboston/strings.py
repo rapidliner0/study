@@ -14,5 +14,8 @@
 'She said, "What part of the cow is the meatloaf from?" '
 # 'She said, "What part of the cow is the meatloaf from?" '
 
+'I don\'t think shes 18'
+# "I don't think shes 18"
+
 print("hey how brown cow")
 # hey how brown cow
