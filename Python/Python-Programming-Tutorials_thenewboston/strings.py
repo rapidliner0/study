@@ -19,3 +19,6 @@
 
 print("hey how brown cow")
 # hey how brown cow
+
+print(r"C:\Bucky\Desktop\nudePics")
+# C:\Bucky\desktop\nudepics
