@@ -30,3 +30,6 @@ user[:]
 
 print("dsadasd")
 # dsadasd
+
+len('dfjhf22893hfsdfjkasdf')
+# 21
