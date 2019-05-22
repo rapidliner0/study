@@ -18,3 +18,6 @@ user[-3]
 
 user[2:7]
 # 'na Mc'
+
+user[:7]
+# 'Tuna Mc'
