@@ -3,3 +3,6 @@
 
 user = "Tuna McFish"
 # Nothing printed on sys.stdout
+
+user[0]
+# 'T'
