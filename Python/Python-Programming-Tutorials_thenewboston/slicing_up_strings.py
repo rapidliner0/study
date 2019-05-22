@@ -9,3 +9,6 @@ user[0]
 
 user[5]
 # 'M'
+
+user[-1]
+# 'h'
