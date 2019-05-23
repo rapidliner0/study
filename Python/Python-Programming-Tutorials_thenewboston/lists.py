@@ -9,3 +9,6 @@ players[2]
 
 players[2] = 68
 # Nothing printed on sys.stdout
+
+players
+# [29, 58, 68, 71, 87]
