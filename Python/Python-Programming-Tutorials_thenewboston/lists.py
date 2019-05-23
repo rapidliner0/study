@@ -15,3 +15,6 @@ players
 
 players + [90,91,98]
 # [29, 58, 68, 71, 87, 90, 91, 98]
+
+players.append(120)
+# Nothing printed on sys.stdout
