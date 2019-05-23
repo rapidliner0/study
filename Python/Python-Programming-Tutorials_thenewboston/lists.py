@@ -18,3 +18,6 @@ players + [90,91,98]
 
 players.append(120)
 # Nothing printed on sys.stdout
+
+players
+# [29, 58, 68, 71, 87, 120]
