@@ -30,3 +30,6 @@ players[:2] = [0, 0]
 
 players
 # [0, 0, 68, 71, 87, 120]
+
+players[:2] = []
+# Nothing printed on sys.stdout
