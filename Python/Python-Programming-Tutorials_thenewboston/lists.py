@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# Python Programming Tutorial - 5 - Lists
+# by thenewboston
+# https://youtu.be/1yUn-ydsgKk
+
 players = [29, 58, 66, 71, 87]
 # Nothing printed on sys.stdout
 
