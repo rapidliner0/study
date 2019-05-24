@@ -37,5 +37,5 @@ players[:2] = []
 players
 # [68, 71, 87, 120]
 
-players = []
+players[:] = []
 # Nothing printed on sys.stdout
