@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# Python Programming Tutorial - 4 - Slicing up Strings
+# by thenewboston
+# https://youtu.be/YbipxqSKx-E
+
 user = "Tuna McFish"
 # Nothing printed on sys.stdout
 
