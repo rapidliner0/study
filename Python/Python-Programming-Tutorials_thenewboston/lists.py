@@ -24,3 +24,6 @@ players
 
 players[:2]
 # [29, 58]
+
+players[:2] = [0, 0]
+# Nothing printed on sys.stdout
