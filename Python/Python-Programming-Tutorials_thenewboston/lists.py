@@ -21,3 +21,6 @@ players.append(120)
 
 players
 # [29, 58, 68, 71, 87, 120]
+
+players[:2]
+# [29, 58]
