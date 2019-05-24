@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# Python Programming Tutorial - 3 - Strings
+# by thenewboston
+# https://youtu.be/nefopNkZmB4
+
 "Bucky Roberts"
 # 'Bucky Roberts'
 
