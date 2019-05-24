@@ -39,3 +39,6 @@ players
 
 players[:] = []
 # Nothing printed on sys.stdout
+
+players
+# []
